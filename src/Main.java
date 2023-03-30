@@ -10,5 +10,10 @@ public class Main {
         x.size = "1234cc";
         x.weight = "6453k";
 
+        Color col = new Color();
+        col.colorLights = "True";
+        col.colorWindows = "True";
+        col.colorTyre = "False";
+
     }
 }
